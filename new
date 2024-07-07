@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>阿彪</title>
+    <style>  
+      body {
+        margin: 0;
+      }
+    </style>
+  </head>
+  <body>
+	 <div style="
+    background-color:#8B0000;
+    text-align:center;
+    padding:40px
+    ">
+      <img alt="阿彪" src="https://ss2.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=2957739641,913403534&amp;fm=253&amp;gp=0.jpg" width="80px" height="80px">
+    </div><div style="
+    max-width:760px;
+    margin:30px auto;
+    padding:15px
+    line-height:1.7;
+    ">
+      <p>我是阿彪，这是我刚学编程第一课，爽就完了</p>
+      <p>我是阿彪，这是我刚学编程第一课，爽就完了</p>
+      <p>我是阿彪，这是我刚学编程第一课，爽就完了</p>
+        <p>我是阿彪，这是我刚学编程第一课，爽就完了</p>
+    </div><div style="
+    background-color:#8B0000;
+    text-align:center;
+    padding:40px;
+    font-size:12px;
+    ">
+    <p>版权所有：阿彪</p>
+    
+    </a></div>
+    </a>
+  </body>
+</html>
